@@ -1,0 +1,2 @@
+스프링 간단 기능 구현 작성글
+https://velog.io/@rlamw2000/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%95%99%EB%B6%80%EC%83%9D%EB%8F%84-%EB%A7%8C%EB%93%A0%EB%8B%A4%EA%B3%A0
